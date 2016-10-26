@@ -1,8 +1,8 @@
-# "Krieg der Farben" - Themes für icingaweb2
-Inspiriert von einen mächtigen Imageboard.
+# "Krieg der Farben" - Themes fÃ¼r icingaweb2
+Inspiriert von einen mÃ¤chtigen Imageboard.
 
 ## Installation
-** (auf einem Ubuntu Server) **
+*(auf einem Ubuntu Server)*
 ~~~
 sudo -s
 cd /usr/share/icingaweb2/public/css/themes/
@@ -11,4 +11,4 @@ cd icingaweb2-krieg-der-farben && mv * .. && cd .. && rmdir icingaweb2-krieg-der
 ~~~
 
 ## Nutzung
-In icingaweb2 einloggen und unter "$Werner --> Einstellungen --> Theme" das Theme deiner Wahl wählen. Anschließend mit "Dauerhaft speichern" bestätigen.
+In icingaweb2 einloggen und unter "$Werner --> Einstellungen --> Theme" das Theme deiner Wahl wÃ¤hlen. AnschlieÃŸend mit "Dauerhaft speichern" bestÃ¤tigen.
